@@ -1,0 +1,17 @@
+{
+  
+  "autoload": {
+    "psr-4": {
+      "coding\\": "./"
+    }
+  },  
+  "authors": [
+    {
+        "name": "afnanalkadasi",
+        "email": "afnanalkadasi22@gmail.com"
+    }
+],
+  "require": {
+    "vlucas/phpdotenv": "^5.4"
+  }
+}

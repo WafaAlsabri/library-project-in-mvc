@@ -1,0 +1,247 @@
+@import url('https://fonts.googleapis.com/css2?family=Mea+Culpa&family=Tajawal:wght@200&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;   
+  direction: rtl;   
+  font-family:  var(--body-font);                                 
+}
+ul.breadcrumb {
+  padding: 20px 16px;
+  list-style: none;
+  background-color: none;
+  margin-top: 20px;
+}
+ul.breadcrumb li {
+  display: inline;
+  font-size: 18px;
+}
+ul.breadcrumb li+li:before {
+  padding: 8px;
+  color: black;
+  content: "/\00a0";
+}
+ul.breadcrumb li a {
+  color: #0275d8;
+  text-decoration: none;
+}
+ul.breadcrumb li a:hover {
+  color: #01447e;
+  text-decoration: underline;
+}
+.note {
+  background-color: #ffffcc;
+  border-right: 6px solid #ffeb3b;
+  padding-right: 10px;
+}
+#more {display: none;}
+/* //slider */
+
+.div_ch{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+
+.div_ch:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column_im {
+  float: left;
+  width: 25%;
+  margin: 0 25px;
+
+}
+.column_im2 {
+  float: left;
+  width: 70%;
+  height: 100%;
+}
+.row_im{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.row_im:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/* The Modal (background) */
+.modal_im {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  padding-top: 100px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.568);
+}
+.line_im{
+  background-color: rgb(165, 165, 165);
+  width: 100%;
+  height: 4px;
+  margin: 5px 0;
+}
+/* Modal Content */
+.modal-content_im {
+  position: relative;
+  background-color: #fefefe;
+  margin: auto;
+  padding: 0;
+  width: 46%;
+  justify-content: center;
+}
+
+/* The close_im Button */
+.close_im {
+  color: white;
+  position: absolute;
+  top: 10px;
+  right: 25px;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.close_im:hover,
+.close_im:focus {
+  color: #999;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.mySlides_im {
+  display: none;
+}
+.cursor {
+  cursor: pointer;
+}
+
+/* Next & previous buttons */
+.prev,
+.next_im {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next_im {
+  right: 36rem;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next_im:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+img {
+  margin-bottom: -4px;
+}
+
+
+
+.demo {
+  opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+  opacity: 1;
+}
+
+img.hover-shadow {
+  transition: 0.3s;
+}
+
+.hover-shadow:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.div2{
+    border: none;
+}
+/* ////////div */
+.section_div{
+  margin: 10px 0;
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-top: 1px  solid #ccc;
+  border-bottom: 1px  solid #ccc;
+
+}
+/* /////////table */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.section1 table{
+  margin-right: 4rem;
+}
+.section-title{
+margin-right: 2rem;
+margin-left: 1rem;
+font-weight: bold;
+}
+.section1 td {
+  text-align: right;
+  padding: 18px 0;
+  border-bottom:2px solid #d4d4d4;
+
+}
+.btn_to{
+  border: 1px solid #f2f2f2;
+  border-radius: 25px;
+  margin: 10px;
+  padding: 5px 15px;
+  font-size: 16px;
+  color: blue;
+  text-align: left;
+}
+/* ////////////////table2 */
+.tab2{
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+}
+.butn_tab{
+  background-color: blue;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+padding: 10px;
+border: none;
+border-radius: 5px;
+}
+.section2 tr:nth-last-child(even){
+  background-color: #f2f2f2;
+
+}
+.section2  td {
+  text-align: right;
+  padding: 8px 80px 8px 0;
+  color: #a3a3a3;
+}
+.section2  td h3 {
+  font-weight: bold;
+  color: black;
+}
