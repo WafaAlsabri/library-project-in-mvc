@@ -1,5 +1,5 @@
 
-<?php include "leftMenu.php"?>   
+<?php include "sidebar.php"?>   
 
 <!-- / Menu -->
 

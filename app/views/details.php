@@ -131,7 +131,7 @@
                                                         </select>
                                                 
                                                       <div>
-                                                         <a href="/sal">   <button class="add_bt add_card"><img  src="svg/cart-1.svg" style="margin-left: 5px;">اضف الى السلة</button></a>
+                                                         <a href="/cart">   <button class="add_bt add_card"><img  src="svg/cart-1.svg" style="margin-left: 5px;">اضف الى السلة</button></a>
                                                       </div>
                                                 </div>
                                                 <div class="ico_bt">

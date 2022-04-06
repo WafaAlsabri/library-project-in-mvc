@@ -88,7 +88,7 @@
                                     <p>شامل الضريبة</p>
                                     <div >
                                         <button  class="card_icon2" ><img src="svg/svgexport-54.svg"></button>
-                                      <a href="/sal"> <button class="card_icon add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                      <a href="/cart"> <button class="card_icon add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                         <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                     </div>
                                     <div  class="counter-container " >
@@ -106,7 +106,7 @@
                                     <p>شامل الضريبة</p>
                                     <div >
                                         <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                        <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                        <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                         <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                     </div>
                                     <div  class="counter-container " >
@@ -125,7 +125,7 @@
                                     <p>شامل الضريبة</p>
                                     <div >
                                         <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                        <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                        <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                         <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                     </div>
                                     <div  class="counter-container " >
@@ -144,7 +144,7 @@
                                     <p>شامل الضريبة</p>
                                     <div >
                                         <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                        <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                        <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                         <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                     </div>
                                     <div  class="counter-container " >
@@ -162,7 +162,7 @@
                                         <p>شامل الضريبة</p>
                                         <div >
                                             <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                            <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                            <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                             <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                         </div>
                                         <div  class="counter-container " >
@@ -197,7 +197,7 @@
                                                 <p>شامل الضريبة</p>
                                                 <div >
                                                     <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                       <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                       <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                     <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                 </div>
                                         </div>
@@ -226,7 +226,7 @@
                                                <p>شامل الضريبة</p>
                                                <div >
                                                    <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                      <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                      <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                    <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                </div>
                                        </div>
@@ -239,7 +239,7 @@
                                                <p>شامل الضريبة</p>
                                                <div >
                                                    <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                      <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                      <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                    <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                </div>
                                   
@@ -253,7 +253,7 @@
                                                <p>شامل الضريبة</p>
                                                <div >
                                                    <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                      <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                      <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                    <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                </div>
                                     
@@ -266,7 +266,7 @@
                                                <p>شامل الضريبة</p>
                                                <div >
                                                    <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                      <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                      <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                    <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                </div>
                             
@@ -280,7 +280,7 @@
                                                <p>شامل الضريبة</p>
                                                <div >
                                                    <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                      <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                      <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                    <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                </div>
                           
@@ -301,7 +301,7 @@
                                                                                        <p>شامل الضريبة</p>
                                                                                        <div >
                                                                                            <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                                                              <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                                                              <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                                                            <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                                                        </div>
                                                                                </div>
@@ -314,7 +314,7 @@
                                                                                        <p>شامل الضريبة</p>
                                                                                        <div >
                                                                                            <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                                                              <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                                                              <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                                                            <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                                                        </div>
                                                                           
@@ -328,7 +328,7 @@
                                                                                        <p>شامل الضريبة</p>
                                                                                        <div >
                                                                                            <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                                                              <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                                                              <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                                                            <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                                                        </div>
                                                                             
@@ -341,7 +341,7 @@
                                                                                        <p>شامل الضريبة</p>
                                                                                        <div >
                                                                                            <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                                                              <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                                                              <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                                                            <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                                                        </div>
                                                                     
@@ -355,7 +355,7 @@
                                                                                        <p>شامل الضريبة</p>
                                                                                        <div >
                                                                                            <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                                                              <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                                                              <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                                                            <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                                                        </div>
                                                                   
@@ -376,7 +376,7 @@
                                                                <p>شامل الضريبة</p>
                                                                <div >
                                                                    <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                                      <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                                      <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                                    <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                                </div>
                                                        </div>
@@ -389,7 +389,7 @@
                                                                <p>شامل الضريبة</p>
                                                                <div >
                                                                    <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                                      <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                                      <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                                    <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                                </div>
                                                   
@@ -403,7 +403,7 @@
                                                                <p>شامل الضريبة</p>
                                                                <div >
                                                                    <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                                      <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                                      <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                                    <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                                </div>
                                                     
@@ -416,7 +416,7 @@
                                                                <p>شامل الضريبة</p>
                                                                <div >
                                                                    <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                                      <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                                      <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                                    <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                                </div>
                                             
@@ -430,7 +430,7 @@
                                                                <p>شامل الضريبة</p>
                                                                <div >
                                                                    <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                                      <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                                      <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                                    <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                                </div>
                                           
@@ -452,7 +452,7 @@
                                                <p>شامل الضريبة</p>
                                                <div >
                                                    <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                      <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                      <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                    <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                </div>
                                        </div>
@@ -465,7 +465,7 @@
                                                <p>شامل الضريبة</p>
                                                <div >
                                                    <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                      <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                      <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                    <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                </div>
                                   
@@ -479,7 +479,7 @@
                                                <p>شامل الضريبة</p>
                                                <div >
                                                    <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                      <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                      <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                    <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                </div>
                                     
@@ -492,7 +492,7 @@
                                                <p>شامل الضريبة</p>
                                                <div >
                                                    <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                      <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                      <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                    <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                </div>
                             
@@ -506,7 +506,7 @@
                                                <p>شامل الضريبة</p>
                                                <div >
                                                    <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                      <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                      <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                    <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                </div>
                           
@@ -527,7 +527,7 @@
                                                <p>شامل الضريبة</p>
                                                <div >
                                                    <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                      <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                      <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                    <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                </div>
                                        </div>
@@ -540,7 +540,7 @@
                                                <p>شامل الضريبة</p>
                                                <div >
                                                    <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                      <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                      <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                    <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                </div>
                                   
@@ -554,7 +554,7 @@
                                                <p>شامل الضريبة</p>
                                                <div >
                                                    <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                      <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                      <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                    <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                </div>
                                     
@@ -567,7 +567,7 @@
                                                <p>شامل الضريبة</p>
                                                <div >
                                                    <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                      <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                      <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                    <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                </div>
                             
@@ -581,7 +581,7 @@
                                                <p>شامل الضريبة</p>
                                                <div >
                                                    <button class="card_icon2"><img src="svg/svgexport-54.svg"></button>
-                                                      <a href="/sal"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
+                                                      <a href="/cart"> <button class="card_icon  add_card"><img  src="svg/cart-1.svg" ></button></a> 
                                                    <button class="card_icon2"><img src="svg/svgexport-55.svg" ></button>
                                                </div>
                           

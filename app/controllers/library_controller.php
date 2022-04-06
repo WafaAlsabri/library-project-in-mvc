@@ -6,7 +6,7 @@ use coding\app\controllers\Controller;
 use coding\app\Models\Category;
 use coding\app\Models\Book;
 
-class Controller_home extends Controller
+class library_controller  extends Controller
 {
    
     public function library()
@@ -43,7 +43,7 @@ class Controller_home extends Controller
     }
     public function dashboard()
     {
-        $this->view('dashboards-ecommerce');
+        $this->view('dashboard');
     }
     public function login()
     {

@@ -37,7 +37,7 @@ else{
             
             <div id="" class="">
             <!-- <span  onclick="document.getElementById('idlog').style.display='none' " class="close2" title="Close Modal">&times;</span> -->
-            <form class="modal-content animate" action="/admin/dashboards-ecommerce" method="POST">
+            <form class="modal-content animate" action="/admin/dashboard" method="POST">
                 <div class="textcontainer">
                           <h2>تسجيل الدخول</h2>
                           <hr>

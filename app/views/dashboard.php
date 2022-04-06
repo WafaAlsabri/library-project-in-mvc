@@ -41,7 +41,7 @@
 <html lang="en" class="light-style layout-navbar-fixed layout-menu-fixed " dir="ltr" data-theme="theme-semi-dark" data-assets-path="../../assets/" data-template="vertical-menu-template-semi-dark">
 
   
-<!-- dashboards-ecommerce.html , Sat, 26 Mar 2022 16:50:45 GMT -->
+<!-- dashboard.html , Sat, 26 Mar 2022 16:50:45 GMT -->
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
@@ -189,7 +189,7 @@
           </a>
         </li>
         <li class="menu-item active">
-          <a href="dashboards-ecommerce.html" class="menu-link">
+          <a href="dashboard.html" class="menu-link">
             <div data-i18n="eCommerce">eCommerce</div>
           </a>
         </li>

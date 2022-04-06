@@ -3,7 +3,7 @@ require_once __DIR__ . '/../vendor/autoload.php';
 use coding\app\system\AppSystem;
 use coding\app\system\Router;
 use coding\app\controllers\UsersController;
-use coding\app\controllers\Controller_home;
+use coding\app\controllers\library_controller;
 use coding\app\controllers\CategoryController;
 use coding\app\controllers\AuthorsController;
 use coding\app\controllers\PublishersController;
@@ -33,15 +33,15 @@ $config=array(
 
 );
 $system=new AppSystem($config);
-Router::get('/login', [Controller_home::class, 'login']);
-Router::get('/sign_up', [Controller_home::class, 'sign_up']);
-Router::get('/', [Controller_home::class, 'library']);
-Router::get('/cart', [Controller_home::class, 'cart']);
-Router::get('/category', [Controller_home::class, 'category']);
-Router::get('/details', [Controller_home::class, 'details']);
-Router::get('/checkout', [Controller_home::class, 'checkout']);
+Router::get('/login', [library_controller::class, 'login']);
+Router::get('/sign_up', [library_controller::class, 'sign_up']);
+Router::get('/', [library_controller::class, 'library']);
+Router::get('/cart', [library_controller::class, 'cart']);
+Router::get('/category', [library_controller::class, 'category']);
+Router::get('/details', [library_controller::class, 'details']);
+Router::get('/checkout', [library_controller::class, 'checkout']);
 
-Router::get('/admin/dashboards-ecommerce', [Controller_home::class, 'dashboard']);
+Router::get('/admin/dashboard', [library_controller::class, 'dashboard']);
 
 Router::get('/admin/users',[UsersController::class,'listAll']);
 Router::get('/admin/new_user',[UsersController::class,'create']);
